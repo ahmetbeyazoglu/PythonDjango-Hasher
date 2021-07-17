@@ -1,3 +1,3 @@
 # PythonDjango-Hasher
 Django input and make hash
-![image](https://user-images.githubusercontent.com/46286059/126036411-5a17ada9-ef36-4092-9f0f-579fe4a0a0d1.png)
+![image](https://user-images.githubusercontent.com/46286059/126036529-6cf07fa9-3438-4d68-a147-50fafd34f5d8.png)
